@@ -1,4 +1,4 @@
-require("k.lazy")  
+require('k.core')
+require('k.lazy')
 
-vim.g.mapleader = " "
-vim.keymap.set("n","<leader>pv", vim.cmd.Ex)
+
